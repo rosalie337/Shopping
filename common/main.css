@@ -1,0 +1,58 @@
+{
+    box-sizing: border-box;
+}
+
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    margin: 0;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+    color: whitesmoke;
+
+
+}
+
+header nav a {
+    color: white;
+    border: 1px;
+    padding: 3px 8px;
+    text-decoration: none;
+    transition: color 200ms ease-in-out;
+}
+
+header nav a:hover {
+    color: yellow;
+    border: 1 px solid coral;
+
+}
+
+header main {
+
+    padding: px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hidden {
+    display: none;
+}
+
+.centered {
+    text-align: center;
+}
+
+.home-image {
+    height: 250px;
+    margin-top: -35px;
+}
