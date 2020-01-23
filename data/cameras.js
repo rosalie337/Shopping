@@ -29,7 +29,7 @@ const sonyA = {
 const nikonD850 = {
     id:'Camera 4',
     name:'Nikon D850',
-    image:'NikonD850.img',
+    image:'NikonD850.jpg',
     description:'Nikon D850 DSLR Camera Body',
     category:'Nikon',
     price: 2295.00,
@@ -71,7 +71,7 @@ const panasonicLumix = {
     price: 697.99,
 };
 
-const cameras = {
+const cameras = [
     nikonZ6,
     fujiFilmX,
     sonyA,
@@ -80,6 +80,6 @@ const cameras = {
     olympusOm,
     canonEosRebel,
     panasonicLumix,
-};
+];
 
 export default cameras;
