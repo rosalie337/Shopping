@@ -1,27 +1,27 @@
 const cart = [{
     id:'Camera 1',
-    quantity: 2
+    quantity: [],
 }, {
     id:'Camera 2',
-    quantity: 4
+    quantity: [],
 }, {
     id:'Camera 3',
-    quantity: 6
+    quantity: [],
 }, {
     id:'Camera 4',
-    quantity: 8
+    quantity: [],
 }, {
     id:'Camera 5',
-    quantity: 10
+    quantity: [],
 }, {
     id:'Camera 6',
-    quantity: 12
+    quantity: [],
 }, {
     id:'Camera 7',
-    quantity: 14
+    quantity: [],
 }, {
     id:'Camera 8',
-    quantity: 9
+    quantity: [],
 }];
 
 export default cart;
